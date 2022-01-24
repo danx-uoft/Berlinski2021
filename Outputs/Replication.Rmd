@@ -1,5 +1,5 @@
 ---
-title: "Voter Fraud misinformation Reduces Confidence in Electoral Integrity"
+title: "Voter Fraud Misinformation Reduces Confidence in Electoral Integrity"
 author: | 
   | Dan Xu
   | University of Toronto
